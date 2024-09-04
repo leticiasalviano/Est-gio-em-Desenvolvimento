@@ -7,3 +7,4 @@ while K < INDICE:
     SOMA = SOMA + K
 
 print(SOMA)
+# A resposta será 77
